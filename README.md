@@ -1,9 +1,9 @@
-# Golang Baselime OpenTelemetry SDK
+# Go Baselime OpenTelemetry SDK
 [![Documentation][docs_badge]][docs]
 [![Latest Release][release_badge]][release]
 [![License][license_badge]][license]
 
-Instrument your Golang applications with OpenTelemetry and send the traces to [Baselime](https://baselime.io)
+Instrument your Go applications with OpenTelemetry and send the traces to [Baselime](https://baselime.io)
 
 ## Getting Started 
 
